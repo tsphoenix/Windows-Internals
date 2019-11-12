@@ -2,7 +2,7 @@
 
 University of Tokyo Windows Kernel Internals (@2005 - Windows XP Professional and Windows Server 2003)
 
-Old, yet till valuable information...
+Old, yet still valuable information...
 
 http://people.cs.vt.edu/~gback/WindowsInternals/www.i.u-tokyo.ac.jp/edu/training/ss/lecture/new-documents/Lectures/index.html
 
