@@ -103,3 +103,7 @@ DevOps
 https://www.datamation.com/cloud-computing/aws-vs-azure-vs-google-cloud-comparison.html
 
 https://www.varonis.com/blog/aws-vs-azure-vs-google/
+
+Windows Script Host
+
+https://en.wikipedia.org/wiki/Windows_Script_Host
