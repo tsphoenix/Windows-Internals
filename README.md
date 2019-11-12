@@ -88,10 +88,6 @@ https://docs.microsoft.com/en-us/sysinternals/downloads/pstools
 
 https://docs.microsoft.com/en-us/sysinternals/downloads/psexec
 
-Internet Explorer 11 Windows 10 x64 User Agent string:
-
-Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko
-
 Azure SSPR:
 
 https://docs.microsoft.com/en-us/azure/active-directory/authentication/howto-sspr-windows
