@@ -42,6 +42,14 @@ Environmental variables:
 
 https://docs.microsoft.com/en-us/windows/deployment/usmt/usmt-recognized-environment-variables
 
+https://ss64.com/nt/syntax-folders.html
+
+https://ss64.com/nt/syntax-variables.html
+
+https://pureinfotech.com/list-environment-variables-windows-10/
+
+https://pureinfotech.com/list-environment-variables-windows-10/102/
+
 NTFS vs Share Permissions refresher:
 
 https://www.techrepublic.com/article/learn-the-basic-differences-between-share-and-ntfs-permissions/
