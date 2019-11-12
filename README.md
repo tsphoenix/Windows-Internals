@@ -74,13 +74,6 @@ https://serverfault.com/questions/476942/how-to-give-only-append-access-to-user-
 
 https://social.technet.microsoft.com/Forums/en-US/9fcde486-f60b-4f66-92bf-9d18bdc92490/create-folder-append-dat
 
-xperf:
-
-https://blogs.msdn.microsoft.com/ntdebugging/
-
-https://randomascii.wordpress.com/2011/08/18/xperf-basics-recording-a-trace/
-
-https://blogs.msdn.microsoft.com/ntdebugging/2008/04/03/windows-performance-toolkit-xperf/
 
 PsTools
 
