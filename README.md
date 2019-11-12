@@ -68,7 +68,7 @@ https://www.varonis.com/blog/ntfs-permissions-vs-share/
 
 https://blog.foldersecurityviewer.com/ntfs-permissions-vs-share-permissions/
 
-Append data NTFS permissions case:
+Append data - wrong NTFS permissions case:
 
 https://serverfault.com/questions/476942/how-to-give-only-append-access-to-user-in-windows-for-logging-purposes
 
