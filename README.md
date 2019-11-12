@@ -62,7 +62,13 @@ https://blogs.msdn.microsoft.com/ntdebugging/
 
 https://randomascii.wordpress.com/2011/08/18/xperf-basics-recording-a-trace/
 
-https://blogs.msdn.microsoft.com/ntdebugging/2008/04/03/windows-performance-
+https://blogs.msdn.microsoft.com/ntdebugging/2008/04/03/windows-performance-toolkit-xperf/
+
+PsTools
+
+https://docs.microsoft.com/en-us/sysinternals/downloads/pstools
+
+https://docs.microsoft.com/en-us/sysinternals/downloads/psexec
 
 Internet Explorer 11 Windows 10 x64 User Agent string:
 
