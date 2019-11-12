@@ -38,6 +38,10 @@ https://docs.microsoft.com/en-us/windows/win32/sysinfo/registry-value-types
 
 https://www.lifewire.com/hkey-users-2625903
 
+Environmental variables:
+
+https://docs.microsoft.com/en-us/windows/deployment/usmt/usmt-recognized-environment-variables
+
 NTFS vs Share Permissions refresher:
 
 https://www.techrepublic.com/article/learn-the-basic-differences-between-share-and-ntfs-permissions/
