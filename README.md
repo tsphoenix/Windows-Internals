@@ -56,6 +56,14 @@ https://docs.microsoft.com/pl-pl/azure/active-directory/authentication/howto-ssp
 
 https://www.itninja.com/blog/view/how-to-make-changes-to-the-default-users-hive-as-a-post-taks
 
+xperf:
+
+https://blogs.msdn.microsoft.com/ntdebugging/
+
+https://randomascii.wordpress.com/2011/08/18/xperf-basics-recording-a-trace/
+
+https://blogs.msdn.microsoft.com/ntdebugging/2008/04/03/windows-performance-
+
 Internet Explorer 11 Windows 10 x64 User Agent string:
 
 Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko
