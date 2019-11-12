@@ -62,9 +62,9 @@ https://stackoverflow.com/questions/4477660/what-is-the-difference-between-user-
 
 NTFS vs Share Permissions refresher:
 
-https://www.techrepublic.com/article/learn-the-basic-differences-between-share-and-ntfs-permissions/
-
 https://blog.netwrix.com/2018/05/03/differences-between-share-and-ntfs-permissions/
+
+https://www.varonis.com/blog/ntfs-permissions-vs-share/
 
 Append data NTFS permission:
 
