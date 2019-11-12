@@ -50,6 +50,16 @@ https://pureinfotech.com/list-environment-variables-windows-10/
 
 https://pureinfotech.com/list-environment-variables-windows-10/102/
 
+PATH:
+
+https://docs.microsoft.com/en-us/dotnet/standard/io/file-path-formats
+
+Environmental Variables... User variables & System variables
+
+https://www.thewindowsclub.com/system-user-environment-variables-windows
+
+https://stackoverflow.com/questions/4477660/what-is-the-difference-between-user-variables-and-system-variables
+
 NTFS vs Share Permissions refresher:
 
 https://www.techrepublic.com/article/learn-the-basic-differences-between-share-and-ntfs-permissions/
