@@ -1,3 +1,7 @@
+VirusTotal.com Uploader (old official windows uploader 2.2 still works fine):
+
+https://support.virustotal.com/hc/en-us/articles/115002179065-Desktop-Apps#windows-uploader
+
 Sysinternals:
 
 Autoruns
