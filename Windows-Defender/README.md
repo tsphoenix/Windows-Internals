@@ -13,11 +13,15 @@ https://docs.microsoft.com/en-us/sysinternals/downloads/autoruns
 Options:
 
 Hide Empty Locations
+
 Hide Windows Entries
 
 Options > Scan Options:
+
 Verify code signatures
+
 Check VirusTotal.com
+
 Submit Unknown Executables (NOT ALWAYS SUITABLE FOR CORPORATE ENVIRONMENT)
 
 ================================================================
