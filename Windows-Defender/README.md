@@ -32,4 +32,4 @@ VirusTotal.com Check VirusTotal.com
 
 VirusTotal.com  Submit Unknown Executables(NOT ALWAYS SUITABLE IN CORPORATE ENVIRONMENT)
 
-In Windows 10 Services: Disable indexing service/windows search for bettter HDD performance
+In Windows 10 Services: Disable indexing service/windows search for bettter HDD performance, indexing triggers Antivirus high CPU usage 
