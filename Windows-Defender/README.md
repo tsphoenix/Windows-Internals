@@ -24,11 +24,9 @@ Check VirusTotal.com
 
 Submit Unknown Executables (NOT ALWAYS SUITABLE FOR CORPORATE ENVIRONMENT)
 
-================================================================
+================================
 
-Sysinternals:
-
-Process explorer
+Process Explorer
 
 https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer
 
