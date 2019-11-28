@@ -21,3 +21,5 @@ Verify Image Signatures
 VirusTotal.com Check VirusTotal.com 
 
 VirusTotal.com  Submit Unknown Executables(NOT ALWAYS IN CASE OF THE CORPORATE ENVIRONMENT)
+
+In Windows: Disable indexing service/windows search
