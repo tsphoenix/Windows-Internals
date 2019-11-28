@@ -16,7 +16,7 @@ Hide Windows Entries
 Options > Scan Options:
 Verify code signatures
 Check VirusTotal.com
-Submit Unknown Executables(NOT ALWAYS SUITABLE FOR CORPORATE ENVIRONMENT)
+Submit Unknown Executables (NOT ALWAYS SUITABLE FOR CORPORATE ENVIRONMENT)
 
 ================================
 
@@ -36,7 +36,7 @@ Verify Image Signatures
 
 VirusTotal.com Check VirusTotal.com 
 
-VirusTotal.com  Submit Unknown Executables(NOT ALWAYS SUITABLE FOR CORPORATE ENVIRONMENT)
+VirusTotal.com  Submit Unknown Executables (NOT ALWAYS SUITABLE FOR CORPORATE ENVIRONMENT)
 
 ================================
 
