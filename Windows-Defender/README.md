@@ -14,6 +14,8 @@ Verify code signatures
 Check VirusTotal.com
 Submit Unknown Executables(NOT ALWAYS SUITABLE IN CORPORATE ENVIRONMENT)
 
+================================
+
 Process explorer
 
 https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer
@@ -31,5 +33,7 @@ Verify Image Signatures
 VirusTotal.com Check VirusTotal.com 
 
 VirusTotal.com  Submit Unknown Executables(NOT ALWAYS SUITABLE IN CORPORATE ENVIRONMENT)
+
+================================
 
 In Windows 10 Services: Disable indexing service/windows search for bettter HDD performance, indexing triggers Antivirus high CPU usage 
